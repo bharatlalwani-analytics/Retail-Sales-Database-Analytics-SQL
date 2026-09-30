@@ -2,7 +2,7 @@
 
 ## 📊 Executive Performance Dashboard
 <p align="center">
-  <img src="https://github.com" alt="Sales and Profitability Executive Dashboard" width="100%">
+  <img src="https://github.com/user-attachments/assets/3479185e-f68c-405f-b459-69720fc925e5" alt="Sales and Profitability Executive Dashboard" width="100%">
 </p>
 
 ## 💼 The Business Problem
